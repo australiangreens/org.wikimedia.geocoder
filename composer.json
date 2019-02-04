@@ -1,4 +1,7 @@
 {
+      "name": "australian_greens/org.wikimedia.geocoder",
+      "type": "drupal-module",
+      "description": "AG forked Repo of the Wikimedia Geocoder",
       "minimum-stability": "dev",
       "repositories": [
         {
@@ -45,5 +48,4 @@
         "geocoder-php/google-maps-provider": "dev-phpcompat#b9ae8b0e642a99c2ed298a548",
         "wikimedia/civicrm-data-table-provider": "@dev"
     }
-
 }
